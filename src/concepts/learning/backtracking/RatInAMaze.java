@@ -1,4 +1,4 @@
-package com.company.backtracking;
+package concepts.learning.backtracking;
 
 public class RatInAMaze {
 

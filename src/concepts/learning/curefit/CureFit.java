@@ -1,4 +1,4 @@
-package com.company.curefit;
+package concepts.learning.curefit;
 
 public class CureFit {
 
